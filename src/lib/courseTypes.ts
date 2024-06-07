@@ -1,0 +1,21 @@
+export default [
+   "ARC 320",
+   "MAN 210",
+   "ECE 302",
+   "ECE 304",
+   "BME 540",
+   "B A 220L",
+   "BME 240K",
+   "COM 303",
+   "UGS 302",
+   "UGS 303",
+   "UGS 316",
+   "KIN 250",
+   "LAT 101",
+   "NEU 202",
+   "STM 240",
+   "SOC 245K",
+   "M 304D",
+   "M 304C",
+   "MUS 245"
+];
